@@ -1,0 +1,57 @@
+{
+ "app": "Chat App Concept",
+ "start": "s-1",
+ "screens": [
+  {
+   "slug": "s-1",
+   "name": "1",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 81,
+   "links": 4
+  },
+  {
+   "slug": "s-2",
+   "name": "2",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 50,
+   "links": 3
+  },
+  {
+   "slug": "s-3",
+   "name": "3",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 81,
+   "links": 2
+  },
+  {
+   "slug": "s-5",
+   "name": "5",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 60,
+   "links": 2
+  },
+  {
+   "slug": "s-4",
+   "name": "4",
+   "page": "Page 1",
+   "w": 375,
+   "h": 812,
+   "elements": 87,
+   "links": 1
+  }
+ ],
+ "warnings": [],
+ "fontPackages": [
+  "inter",
+  "jost",
+  "sen"
+ ]
+}
